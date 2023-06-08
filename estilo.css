@@ -95,7 +95,7 @@ img{
     color: rgb(73, 73, 73);
     font-size: 18px;
     font-weight: bold;
-   background: linear-gradient(0deg, rgba(255, 254, 210, 0.777) 0%, rgb(250, 251, 223) 100%);
+   background: linear-gradient(0deg, rgba(255, 254, 221, 0.777) 0%, rgb(250, 251, 223) 100%);
   }
   
   .countdown {
@@ -131,7 +131,7 @@ margin-top: -50%;
       }
       /*SECCION*/
   .info{
-    margin-top: 5%;
+    margin-top: 6%;
     
   }
   .info h4 {
@@ -150,7 +150,7 @@ margin-top: -50%;
   }
   
  .info{
-  margin-left: 10%;
+  margin-left: 14%;
  }
   .parrafo2{
     margin: 15px;
